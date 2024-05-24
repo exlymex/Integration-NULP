@@ -27,5 +27,5 @@ jobs:
     - name: Build project
       run: |
         echo 'Building project...'
-        cd vue-paper-dashboard
+        cd ./vue-paper-dashboard
         npm run build
